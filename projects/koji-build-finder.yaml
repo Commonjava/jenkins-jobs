@@ -1,0 +1,3 @@
+github-url: https://github.com/release-engineering/koji-build-finder
+name: koji-build-finder
+jdk: OpenJDK 1.8.0
